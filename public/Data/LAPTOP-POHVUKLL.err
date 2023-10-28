@@ -1,0 +1,214 @@
+2023-08-02T15:02:44.156968Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-02T15:02:44.158406Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 16160
+2023-08-02T15:02:44.177823Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-02T15:02:44.184190Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-02T15:02:44.452440Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-02T15:02:44.823739Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-02T15:02:44.824559Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-02T15:02:44.853320Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-02T15:02:44.853485Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-02T15:06:14.380749Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2023-08-02T15:06:14.827927Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
+2023-08-02T15:11:19.457022Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-02T15:11:19.458166Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 1428
+2023-08-02T15:11:19.500321Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-02T15:11:19.504438Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-02T15:11:19.763260Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-02T15:11:20.090168Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-02T15:11:20.090730Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-02T15:11:20.136120Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-02T15:11:20.136323Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-02T15:11:36.344157Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-02T15:11:36.345460Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 2056
+2023-08-02T15:11:36.355826Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-02T15:11:36.359350Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-02T15:11:37.329351Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-02T15:11:37.500546Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-08-02T15:11:37.506421Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-08-02T15:11:37.541742Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-02T15:11:37.542440Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-02T15:11:37.579751Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-02T15:11:37.579936Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-02T15:12:29.945887Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-02T15:12:29.946992Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 9516
+2023-08-02T15:12:29.964733Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-02T15:12:29.968364Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-02T15:12:30.932873Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-02T15:12:31.084760Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-08-02T15:12:31.089121Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-08-02T15:12:31.125227Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-02T15:12:31.125711Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-02T15:12:31.170888Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-02T15:12:31.171043Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-02T15:13:06.520445Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-02T15:13:06.521684Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 16868
+2023-08-02T15:13:06.533385Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-02T15:13:06.537934Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-02T15:13:07.524345Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-02T15:13:07.703525Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-08-02T15:13:07.708228Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-08-02T15:13:07.807224Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-02T15:13:07.808026Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-02T15:13:07.840271Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-02T15:13:07.840425Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-14T12:18:29.045799Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2023-08-14T12:18:30.303013Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
+2023-08-27T07:41:55.105103Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-27T07:41:55.106814Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 16720
+2023-08-27T07:41:55.133151Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-27T07:41:55.146025Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-27T07:41:55.440805Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-27T07:41:55.821188Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-27T07:41:55.821691Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-27T07:41:55.880278Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-27T07:41:55.880459Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-27T07:42:18.583225Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-27T07:42:18.584369Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 12996
+2023-08-27T07:42:18.600768Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-27T07:42:18.604301Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-27T07:42:19.553162Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-27T07:42:19.738609Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-08-27T07:42:19.742722Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-08-27T07:42:19.840360Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-27T07:42:19.840828Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-27T07:42:19.888491Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-27T07:42:19.888633Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-27T07:42:33.922484Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-27T07:42:33.923673Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 17068
+2023-08-27T07:42:33.941232Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-27T07:42:33.944710Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-27T07:42:34.918417Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-27T07:42:35.092990Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-08-27T07:42:35.112889Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-08-27T07:42:35.149977Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-27T07:42:35.150448Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-27T07:42:35.196632Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-27T07:42:35.196720Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-27T07:42:49.141719Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-27T07:42:49.142843Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 9304
+2023-08-27T07:42:49.159522Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-27T07:42:49.163043Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-27T07:42:50.086599Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-27T07:42:50.268048Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-08-27T07:42:50.272978Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-08-27T07:42:50.318775Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-27T07:42:50.319243Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-27T07:42:50.358552Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-27T07:42:50.358663Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-27T07:42:55.837219Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-08-27T07:42:55.838501Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 15952
+2023-08-27T07:42:55.857511Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-08-27T07:42:55.862049Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-27T07:42:56.931207Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-27T07:42:57.109534Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-08-27T07:42:57.131235Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-08-27T07:42:57.167303Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-27T07:42:57.168063Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-27T07:42:57.210485Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-27T07:42:57.210588Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-09-27T16:32:04.189813Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2023-09-27T16:32:04.940956Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
+2023-10-02T13:48:41.283943Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-10-02T13:48:41.285732Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 8724
+2023-10-02T13:48:41.328279Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-10-02T13:48:41.356646Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-02T13:48:41.696535Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-02T13:48:42.101723Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-02T13:48:42.102249Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-02T13:48:42.179087Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-02T13:48:42.179245Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-02T13:48:54.368747Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-10-02T13:48:54.370094Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 11912
+2023-10-02T13:48:54.389571Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-10-02T13:48:54.394133Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-02T13:48:55.438142Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-02T13:48:55.619111Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-10-02T13:48:55.625576Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-10-02T13:48:55.665660Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-02T13:48:55.666449Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-02T13:48:55.701881Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-02T13:48:55.702033Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-11T18:13:43.596752Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2023-10-11T18:13:44.539268Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
+2023-10-13T16:13:01.104075Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-10-13T16:13:01.105887Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 10868
+2023-10-13T16:13:01.146956Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-10-13T16:13:01.160796Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-13T16:13:01.480014Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-13T16:13:01.812221Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-13T16:13:01.813023Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-13T16:13:01.931928Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-13T16:13:01.932120Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-13T16:13:12.853792Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-10-13T16:13:12.854955Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 12272
+2023-10-13T16:13:12.871695Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-10-13T16:13:12.875303Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-13T16:13:13.933798Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-13T16:13:14.111801Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-10-13T16:13:14.116090Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-10-13T16:13:14.160525Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-13T16:13:14.161018Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-13T16:13:14.207617Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-13T16:13:14.207743Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-13T16:13:23.706885Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-10-13T16:13:23.708230Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 9764
+2023-10-13T16:13:23.727614Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-10-13T16:13:23.732257Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-13T16:13:24.757003Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-13T16:13:24.933617Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-10-13T16:13:24.938849Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-10-13T16:13:25.038595Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-13T16:13:25.039391Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-13T16:13:25.078051Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-13T16:13:25.078226Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-14T08:59:22.153535Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2023-10-14T08:59:23.419494Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
+2023-10-14T08:59:31.210960Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-10-14T08:59:31.212621Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 18232
+2023-10-14T08:59:31.242085Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-10-14T08:59:31.247170Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-14T08:59:31.570218Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-14T08:59:31.896526Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-14T08:59:31.897339Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-14T08:59:31.947528Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-14T08:59:31.947712Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-14T09:07:42.122513Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2023-10-14T09:07:43.116140Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
+2023-10-14T09:13:21.310216Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 8048
+2023-10-14T09:13:21.325175Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-14T09:13:21.652220Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-14T09:13:21.969163Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-14T09:13:21.969662Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-14T09:13:22.023732Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-14T09:13:22.023885Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-14T09:13:54.054048Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-10-14T09:13:54.055369Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 992
+2023-10-14T09:13:54.075204Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-10-14T09:13:54.079789Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-14T09:13:55.062764Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-14T09:13:55.283829Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-14T09:13:55.284605Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-14T09:13:55.314216Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-14T09:13:55.314364Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-14T14:20:11.148001Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2023-10-14T14:20:11.631562Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
+2023-10-14T14:32:10.619881Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-10-14T14:32:10.621581Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 3368
+2023-10-14T14:32:10.662620Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-10-14T14:32:10.675937Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-14T14:32:11.031432Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-14T14:32:11.456921Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-14T14:32:11.457436Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-14T14:32:11.502529Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-14T14:32:11.502780Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-14T14:32:19.456747Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-10-14T14:32:19.458103Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.31) starting as process 10324
+2023-10-14T14:32:19.472129Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2023-10-14T14:32:19.476652Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-14T14:32:20.606084Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-14T14:32:20.794658Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-10-14T14:32:20.799865Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-10-14T14:32:20.843412Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-14T14:32:20.844196Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-14T14:32:20.883872Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-14T14:32:20.884034Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
