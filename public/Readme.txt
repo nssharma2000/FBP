@@ -1,0 +1,1 @@
+Install XAMPP Server and MySQL for this project. The databases are in the 'Data' directory.
