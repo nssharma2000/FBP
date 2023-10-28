@@ -1,0 +1,564 @@
+html
+{
+  scroll-behavior: smooth;
+}
+
+#MENU_COVER
+{
+  width: 100%;
+  height: 180%;
+  background: rgba(229, 229, 299, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 998;
+  display: block;
+}
+
+#TOP_BAR
+{
+  width: 100%;
+  height: 5vw;
+  background-color: #051D40;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#ABOUT>A
+{
+  color: white;
+}
+
+#CONTACT>A
+{
+  color: white;
+}
+
+#MENU_DIV
+{
+  width: 5vw;
+  height: 5vw;
+  display: inline-block;
+  margin-right: 75%;
+  border-radius: 100%;
+  transition: background 1s;
+}
+
+#MENU_DIV:HOVER
+{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#MENU_DIV>IMG
+{
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  position: relative;
+  left: 30%;
+  top: 30%;
+  animation-name: M;
+  animation-duration: 1s;
+}
+
+#ABOUT
+{
+  width: 7vw;
+  height: 1.5vw;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 2vw;
+  padding-bottom: 1vw;
+  padding-top: 0.8vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  font: 1.5vw Calibri;
+  font-weight: 600;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  transition: background 1s;
+  animation: C 1s;
+
+}
+
+#ABOUT:HOVER
+{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+@keyframes a
+{
+  from {background: rgba(255, 255, 255, 0);}
+  to {background: rgba(255, 255, 255, 0.5);}
+}
+
+#CONTACT
+{
+  width: 7vw;
+  height: 1.5vw;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 2vw;
+  padding-bottom: 1vw;
+  padding-top: 0.8vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  display: inline-block;
+  font: 1.5vw Calibri;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  transition: background 1s;
+  animation: C 1s;
+}
+
+@keyframes C
+{
+  0% {transform: translateY(-150%);
+  opacity: 0; }
+  100% {transform: translateY(0);
+  opacity: 1; }
+}
+
+@keyframes M
+{
+  0% {transform: translateY(-200%);
+  opacity: 0; }
+  100% {transform: translateY(0);
+  opacity: 1; }
+}
+
+#CONTACT:HOVER
+{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#MENU
+{
+  background: white;
+  width: 18vw;
+  height: 100vh;
+  z-index: 999;
+  position: fixed;
+  top: 0;
+  margin-right: 1920px;
+}
+
+.M_ITEM_I
+{
+  width: 18vw;
+  height: 6vw;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 2.8vw Calibri;
+  transition: background 1s;
+}
+
+.M_ITEM_A
+{
+  width: 18vw;
+  height: 6vw;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 2.8vw Calibri;
+  border-bottom: 5px solid blue;
+  transition: background 1s;
+}
+
+.M_ITEM_I:HOVER
+{
+  background: rgba(188, 188, 188, 0.3);
+}
+
+.M_ITEM_A:HOVER
+{
+  background: rgba(188, 188, 188, 0.3);
+}
+
+A
+{
+  text-decoration: none;
+}
+
+#BG
+{
+  width: 100vw;
+  height: 20vw;
+  background-color: #051D40;
+  display: block;
+}
+
+#LOGO_DIV
+{
+  width: 20vw;
+  height: 20vw;
+  margin: auto;
+}
+
+#LOGO_DIV>IMG
+{
+  animation-name: QB;
+  animation-duration: 1s;
+}
+
+@keyframes QB
+{
+  0% {transform: translateY(-150%);
+  opacity: 0; }
+  100% {transform: translate(0);
+  opacity: 1; }
+}
+
+#BG>#LOGO_DIV>IMG
+{
+  width: 20vw;
+  height: 20vw;
+}
+
+@keyframes PB
+{
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+#PLANE_BG
+{
+  width: 100%;
+  height: 60vw;
+  background-image: url("Plane_background.jpg");
+  background-size: 100vw 60vw;
+  animation-name: PB;
+  animation-duration: 1s;
+}
+
+#MAIN_B
+{
+  width: 50vw;
+  height: 33vw;
+  background: linear-gradient(rgba(42, 0, 106, 0.8), rgba(0, 117, 191, 0.8));
+  position: relative;
+  top: 10vw;
+  margin: auto;
+  border-radius: 15px;
+  border: 5px solid transparent;
+}
+
+#B_TEXT
+{
+  width: 35vw;
+  height: 5vw;
+  color: white;
+  font: 4vw Arial Rounded MT;
+  margin: 5% auto auto auto;
+  text-align: center;
+  font-weight: 600;
+}
+
+#B1
+{
+  width: 50vw;
+  height: 3vw;
+  margin: 5% auto auto auto;
+  display: flex;
+  align-content: center;
+}
+
+#B1-1>LABEL, #B1-2>LABEL
+{
+  font: 2vw Calibri;
+  color: white;
+}
+
+#B1-1
+{
+  width: 50%;
+  height: 3vw;
+  display: inline-block;
+}
+
+#B1-2
+{
+  width: 50%;
+  height: 3vw;
+  display: inline-block;
+
+}
+
+#FROM
+{
+  width: 60%;
+  height: 80%;
+  outline: none;
+  font-size: 2vw;
+  transition: border-bottom 0.5s;
+  position: relative;
+  left: 2%;
+  border-radius: 5px;
+}
+
+#FROM:FOCUS
+{
+  border-bottom: 3px solid blue;
+  outline: none;
+}
+
+#DD_MENU_FROM
+{
+  width: 60%;
+  height: 600%;
+  max-height: 600%;
+  background-color: white;
+  display: none;
+  position: relative;
+  right: -22%;
+  top: 0%;
+  border-radius: 5px;
+  overflow: scroll;
+  z-index: 999;
+}
+
+.MENU_FROM_ITEM
+{
+  background-color: white;
+  width: 100%;
+  height: 20%;
+  padding-top: 0.85vw;
+  transition: background-color 0.5s;
+  text-align: center;
+  font: 2vw Calibri;
+  color: black;
+  font-weight: 600;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.MENU_FROM_ITEM:HOVER
+{
+  cursor: pointer;
+  background-color: #E2E2E2;
+}
+
+#TO
+{
+  width: 60%;
+  height: 80%;
+  outline: none;
+  font-size: 2vw;
+  transition: border-bottom 0.5s;
+  position: relative;
+  left: 2%;
+  border-radius: 5px;
+}
+
+#DD_MENU_TO
+{
+  width: 60%;
+  height: 600%;
+  max-height: 600%;
+  background-color: white;
+  display: none;
+  position: relative;
+  right: -12%;
+  top: 0%;
+  border-radius: 5px;
+  overflow: scroll;
+  z-index: 999;
+}
+
+.MENU_TO_ITEM
+{
+  background-color: white;
+  width: 100%;
+  height: 20%;
+  transition: background-color 0.5s;
+  padding-top: 0.85vw;
+  text-align: center;
+  vertical-align: center;
+  font: 2vw Calibri;
+  color: black;
+  font-weight: 600;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.MENU_TO_ITEM:HOVER
+{
+  cursor: pointer;
+  background-color: #E2E2E2;
+}
+
+#TO:FOCUS
+{
+  border-bottom: 3px solid blue;
+  outline: none;
+}
+
+#B2
+{
+  width: 50vw;
+  height: 3vw;
+  margin: 5% auto auto auto;
+  display: flex;
+  align-content: center;
+}
+
+#B2-1>LABEL, #B2-2>LABEL
+{
+  font: 2vw Calibri;
+  color: white;
+}
+
+#B2-1>INPUT, #B2-2>INPUT
+{
+  width: 7vw;
+}
+
+#B2-1
+{
+  width: 50%;
+  height: 3vw;
+  display: inline;
+  margin: auto;
+}
+
+#B2-2
+{
+  width: 50%;
+  height: 3vw;
+  display: inline;
+  margin: auto;
+}
+
+#DEP_DATE
+{
+  width: 60%;
+  height: 80%;
+  outline: none;
+  font: 1vw Calibri;
+  transition: border-bottom 0.5s;
+  position: relative;
+  left: 2%;
+  border-radius: 5px;
+}
+
+#DEP_DATE:FOCUS
+{
+  border-bottom: 3px solid blue;
+  outline: none;
+}
+
+#RET_DATE
+{
+  width: 60%;
+  height: 80%;
+  outline: none;
+  font: 1vw Calibri;
+  transition: border-bottom 0.5s;
+  position: relative;
+  left: 2%;
+  border-radius: 5px;
+}
+
+#RET_DATE:FOCUS
+{
+  border-bottom: 3px solid blue;
+  outline: none;
+}
+
+#B3
+{
+  width: 50vw;
+  height: 3vw;
+  margin-top: 5%;
+  display: flex;
+  align-content: center;
+}
+
+#B3-1>LABEL, #B3-2>LABEL
+{
+  font: 2vw Calibri;
+  color: white;
+}
+
+#B3-1
+{
+  width: 50%;
+  height: 3vw;
+  display: inline-block;
+}
+
+#B3-2
+{
+  width: 50%;
+  height: 3vw;
+  display: inline-block;
+}
+
+#RT_OR_NOT
+{
+  width: 1.5vw;
+  height: 1.5vw;
+}
+
+#NP
+{
+  width: 2vw;
+  height: 2vw;
+}
+
+@media only screen and (max-width: 480px)
+{
+  #B2-1>LABEL, #B2-2>LABEL
+  {
+    font: 0.75vw Calibri;
+  }
+  #MENU_DIV>IMG
+  {
+    width: 2vw;
+    height: 2vw;
+    position: relative;
+    left: 30%;
+    top: 0%;
+  }
+}
+
+#B4
+{
+  width: 50vw;
+  height: 3vw;
+  margin-top: 5%;
+  text-align: center;
+}
+
+#SUBMIT_B
+{
+  width: 15vw;
+  height: 4vw;
+  margin: auto;
+  display: block;
+  background: linear-gradient(#FF6600, #FF9102);
+  border-radius: 10px;
+  border: 3px solid transparent;
+  color: white;
+  font: 2vw Calibri;
+  font-weight: 600;
+  text-align: center;
+}
+
+#SUBMIT_TEXT
+{
+  width: 12vw;
+  height: 3vw;
+  margin: 0.5vw auto auto auto;
+}
+
+#SUBMIT_B:HOVER
+{
+  cursor: pointer;
+}

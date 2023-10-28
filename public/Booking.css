@@ -1,0 +1,187 @@
+html
+{
+  scroll-behavior: smooth;
+}
+
+#TOP_BAR
+{
+  width: 100%;
+  height: 5vw;
+  background-color: #051D40;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#MENU_DIV
+{
+  width: 5vw;
+  height: 5vw;
+  display: inline-block;
+  margin-right: 75%;
+  border-radius: 100%;
+  transition: background 1s;
+}
+
+#MENU_DIV:HOVER
+{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#MENU_DIV>IMG
+{
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  position: relative;
+  left: 30%;
+  top: 30%;
+  animation-name: M;
+  animation-duration: 1s;
+}
+
+#ABOUT
+{
+  width: 7vw;
+  height: 1.5vw;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 2vw;
+  padding-bottom: 1vw;
+  padding-top: 0.8vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  font: 1.5vw Calibri;
+  font-weight: 600;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  transition: background 1s;
+  animation: C 1s;
+
+}
+
+#ABOUT:HOVER
+{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+@keyframes a
+{
+  from {background: rgba(255, 255, 255, 0);}
+  to {background: rgba(255, 255, 255, 0.5);}
+}
+
+#CONTACT
+{
+  width: 7vw;
+  height: 1.5vw;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 2vw;
+  padding-bottom: 1vw;
+  padding-top: 0.8vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  display: inline-block;
+  font: 1.5vw Calibri;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  transition: background 1s;
+  animation: C 1s;
+}
+
+@keyframes C
+{
+  0% {transform: translateY(-150%);
+  opacity: 0; }
+  100% {transform: translateY(0);
+  opacity: 1; }
+}
+
+@keyframes M
+{
+  0% {transform: translateY(-200%);
+  opacity: 0; }
+  100% {transform: translateY(0);
+  opacity: 1; }
+}
+
+#CONTACT:HOVER
+{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#ABOUT>A
+{
+  text-decoration: none;
+  color: white;
+}
+
+#CONTACT>A
+{
+  text-decoration: none;
+  color: white;
+}
+
+#BG
+{
+  width: 100vw;
+  height: 100vh;
+  background-color: #051D40;
+  display: block;
+}
+
+#MAIN
+{
+  width: 96vw;
+  height: 60vw;
+  background: linear-gradient(#0000FF, #00004C);
+  margin: auto;
+  border: 5px solid transparent;
+  border-radius: 20px;
+
+
+}
+
+#FL_TABLE
+{
+  width: 100%;
+  font: 1.5vw Calibri;
+  color: white;
+}
+
+.ROW
+{
+ height: 5vw;
+ font: 1.25vw Calibri;
+ background-color: #DADBD9;
+ border-radius: 10px;
+ color: black;
+}
+
+.N
+{
+  width: 90%;
+  height: 10vw;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 2vw Arial;
+  font-weight: 600;
+  color: white;
+}
+
+TD
+{
+  background: linear-gradient(#eaffea, #b2ffb4);
+  text-align: center;
+  border-radius: 5px;
+}
+
+.BOOK_BUTTON:HOVER
+{
+  cursor: pointer;
+}

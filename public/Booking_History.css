@@ -1,0 +1,241 @@
+html
+{
+  scroll-behavior: smooth;
+}
+
+#MENU_COVER
+{
+  width: 100%;
+  height: 180%;
+  background: rgba(229, 229, 299, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 998;
+  display: block;
+}
+
+#TOP_BAR
+{
+  width: 100%;
+  height: 5vw;
+  background-color: #051D40;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#MENU_DIV
+{
+  width: 5vw;
+  height: 5vw;
+  display: inline-block;
+  margin-right: 75%;
+  border-radius: 100%;
+  transition: background 1s;
+}
+
+#MENU_DIV:HOVER
+{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#MENU_DIV>IMG
+{
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  position: relative;
+  left: 30%;
+  top: 30%;
+  animation-name: M;
+  animation-duration: 1s;
+}
+
+#ABOUT
+{
+  width: 7vw;
+  height: 1.5vw;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 2vw;
+  padding-bottom: 1vw;
+  padding-top: 0.8vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  font: 1.5vw Calibri;
+  font-weight: 600;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  transition: background 1s;
+  animation: C 1s;
+
+}
+
+#ABOUT:HOVER
+{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+@keyframes a
+{
+  from {background: rgba(255, 255, 255, 0);}
+  to {background: rgba(255, 255, 255, 0.5);}
+}
+
+#CONTACT
+{
+  width: 7vw;
+  height: 1.5vw;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 2vw;
+  padding-bottom: 1vw;
+  padding-top: 0.8vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  display: inline-block;
+  font: 1.5vw Calibri;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  transition: background 1s;
+  animation: C 1s;
+}
+
+@keyframes C
+{
+  0% {transform: translateY(-150%);
+  opacity: 0; }
+  100% {transform: translateY(0);
+  opacity: 1; }
+}
+
+@keyframes M
+{
+  0% {transform: translateY(-200%);
+  opacity: 0; }
+  100% {transform: translateY(0);
+  opacity: 1; }
+}
+
+#CONTACT:HOVER
+{
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#MENU
+{
+  background: white;
+  width: 18vw;
+  height: 100vh;
+  z-index: 999;
+  position: fixed;
+  top: 0;
+  margin-right: 1920px;
+}
+
+.M_ITEM_I
+{
+  width: 18vw;
+  height: 6vw;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 2.8vw Calibri;
+  transition: background 1s;
+}
+
+.M_ITEM_A
+{
+  width: 18vw;
+  height: 6vw;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 2.8vw Calibri;
+  border-bottom: 5px solid blue;
+  transition: background 1s;
+}
+
+.M_ITEM_I:HOVER
+{
+  background: rgba(188, 188, 188, 0.3);
+}
+
+.M_ITEM_A:HOVER
+{
+  background: rgba(188, 188, 188, 0.3);
+}
+
+A
+{
+  text-decoration: none;
+}
+
+
+
+@keyframes PB
+{
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+
+
+@media only screen and (max-width: 480px)
+{
+  #MENU_DIV>IMG
+  {
+    width: 2vw;
+    height: 2vw;
+    position: relative;
+    left: 30%;
+    top: 0%;
+  }
+}
+
+
+.TICKET
+{
+  width: 80vw;
+  height: 30vw;
+  font: 2vw Calibri;
+  color: white;
+  border: 5px solid transparent;
+  border-radius: 5px;
+  background: linear-gradient(#0000E5, #0000A5);
+}
+
+.TICKET_TITLE
+{
+  width: 15vw;
+  height: 5vw;
+  margin: auto;
+}
+
+#N
+{
+  width: 50vw;
+  height: 20vw;
+  text-align: center;
+  color: white;
+  font: 2vw Calibri;
+  background: blue;
+  border: 5px solid transparent;
+}
+
+#ABOUT>A
+{
+  text-decoration: none;
+  color: white;
+}
+
+#CONTACT>A
+{
+  text-decoration: none;
+  color: white;
+}
